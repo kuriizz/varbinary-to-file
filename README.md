@@ -1,4 +1,4 @@
-# varbinary-to-file
+# varbinary-to-file using .NET 8
 Convert from SQL varbinary to file
 
 How to use it?
